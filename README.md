@@ -8,6 +8,7 @@ Imagine you're an Ultimate Frisbee coach trying to explain a complex play to you
 - **Record entire play sequences** step-by-step, like creating a flip-book animation
 - **Scrub through plays** with a slider, watching your strategy unfold in smooth slow-motion
 - **Save and share** formations with your team via simple CSV files
+<img width="1195" height="762" alt="Screenshot 2025-11-03 at 4 25 27 AM" src="https://github.com/user-attachments/assets/b3625bd9-d3dc-42cc-baae-4d0273a94f48" />
 
 Think of it as "PowerPoint for Ultimate Frisbee" - but way cooler because it's interactive.
 
